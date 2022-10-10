@@ -38,3 +38,6 @@ print(var1)
 var1 = ["book","copy","pen"]
 var1.pop()
 print(var1)
+
+var6="pra"
+print(var6)
